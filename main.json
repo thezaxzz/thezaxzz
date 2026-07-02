@@ -1,0 +1,29 @@
+{
+  "app": {
+    "name": "ZAXZ INFINITY",
+    "version": "3.0.0",
+    "developer": "@King_Zaxz",
+    "description": "Database Token Bot"
+  },
+  "status": {
+    "online": true,
+    "maintenance": false,
+    "last_update": "2026-07-03"
+  },
+  "settings": {
+    "max_tokens": 1000,
+    "auto_reload": true
+  },
+  "tokens": [
+    "8675766359:AAE55C7zQ4Q2ik2cAK6HBzErzR-IAbt2QyY",
+    "TOKEN_2",
+    "TOKEN_3",
+    "TOKEN_4",
+    "TOKEN_5",
+    "TOKEN_6"
+  ],
+  "message": {
+    "success": "Token berhasil diverifikasi.",
+    "failed": "Token tidak ditemukan."
+  }
+}
